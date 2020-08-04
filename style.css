@@ -1,0 +1,78 @@
+    body{
+        background-color: antiquewhite;
+        color: #fff;
+    }
+    
+    
+    h1{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 50px;
+        font-weight: 500;
+    }
+    img{
+        width: 180px;
+        height: auto;
+
+    }
+    .container{
+        width: 510px;
+        height: auto;
+        background-color: rgb(182, 35, 35);
+        box-sizing: border-box;
+        border-radius:20px ;
+       
+      
+       
+    }
+
+    .contenedor-principal{
+
+        display: flex;
+        justify-content: center;
+       
+    }
+
+    .container-img{
+        background-color:rgb(182, 35, 35);
+        text-align: center;
+        padding: 40px;
+        border-radius:20px ;
+       
+    }
+
+    .container-text{
+        background-color:rgb(27, 27, 51) ;
+        text-align: center;
+        padding: 30px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    a{
+        text-decoration: none;
+        color: #fff;
+        padding: 10px;
+        border: 1px solid rgb(182, 35, 35);
+        border-radius: 50px;
+        font-size: 12px;
+        margin: 5px;
+    }
+
+    .titles{
+        margin: 20px;
+    }
+
+    button{
+        width: 180px;
+
+        padding: 15px;
+        background-color: rgb(182, 35, 35);
+        border-radius: 50px;
+        border: none;
+        color: #fff;
+    }
+
+    .price{
+        font-size: 30px;
+    }
