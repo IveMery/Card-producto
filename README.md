@@ -1,6 +1,6 @@
-Ejercicios  Card de Productos
+Ejercicios  Card de Producto
 
-Ejercicio de Ada  realizar car de producto usando html y css.
+Ejercicio de Ada  realizar card de producto usando html y css.
 
 
 
